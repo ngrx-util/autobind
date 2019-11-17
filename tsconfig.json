@@ -19,11 +19,8 @@
       "dom"
     ],
     "paths": {
-      "ngrx-util-autobind": [
-        "dist/ngrx-util-autobind"
-      ],
-      "ngrx-util-autobind/*": [
-        "dist/ngrx-util-autobind/*"
+      "@ngrx-util/autobind": [
+        "projects/ngrx-util-autobind/src/public-api.ts"
       ]
     }
   }
