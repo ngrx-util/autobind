@@ -1,0 +1,26 @@
+{
+  "name": "ngrx-util-autobind",
+  "version": "0.0.1",
+  "description": "A utility package for the ngrx/store that helps with binding state and dispatching actions",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngrx-util/autobind.git"
+  },
+  "keywords": [
+    "ngrx-util",
+    "ngrx",
+    "ngrx/platform",
+    "ngrx-autobind",
+    "ngrx-util-autobind"
+  ],
+  "author": "Dan Patiu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ngrx-util/autobind/issues"
+  },
+  "homepage": "https://github.com/ngrx-util/autobind#readme",
+  "peerDependencies": {
+    "@angular/common": "^8.0.3",
+    "@angular/core": "^8.0.3"
+  }
+}
